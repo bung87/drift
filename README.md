@@ -2,7 +2,7 @@
 
 A lightweight, fast text editor written in Nim using Raylib. Folx features a clean, minimal architecture with syntax highlighting, file exploration, and a modern dark theme.
 
-![Drift Editor Screenshot](screenshot.png)  
+![Drift Editor Screenshot](./screenshot.png)  
 
 ## Features
 
