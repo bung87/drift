@@ -1,0 +1,3 @@
+Hello World!
+This is a test file for backspace functionality.
+Type some text and try backspace.

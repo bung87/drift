@@ -1,0 +1,2 @@
+# --gc:orc
+# --define:useMalloc
