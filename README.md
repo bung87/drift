@@ -1,6 +1,6 @@
 # Drift Editor
 
-A lightweight, fast text editor written in Nim using Raylib. Folx features a clean, minimal architecture with syntax highlighting, file exploration, and a modern dark theme.
+A lightweight, fast text editor written in Nim using Raylib.
 
 ![Drift Editor Screenshot](./Screenshot.png)  
 
